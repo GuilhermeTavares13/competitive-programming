@@ -8,6 +8,7 @@
         "array": "cpp",
         "format": "cpp",
         "initializer_list": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "algorithm": "cpp"
     }
 }
