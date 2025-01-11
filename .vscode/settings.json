@@ -9,6 +9,7 @@
         "format": "cpp",
         "initializer_list": "cpp",
         "xutility": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "xlocale": "cpp"
     }
 }
