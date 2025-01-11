@@ -35,7 +35,7 @@ public:
 int main() {
     Solution solution;
 
-    vector<int> teste = {1,1,2};
+    vector<int> teste = {1};
     cout << solution.removeDuplicates(teste);
     return 0;
 }
