@@ -20,7 +20,6 @@ public:
         for(int i = 0; i < number.size(); i++){
             cout << number[i] << endl;
         }
-
         return number;
     }
 };
